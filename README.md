@@ -1,4 +1,4 @@
-Recentemente, concluí um curso abrangente sobre MySQL, uma poderosa ferramenta de gerenciamento de banco de dados. Durante o curso, adquiri conhecimentos fundamentais que abrangem desde a criação de tabelas até operações mais avançadas, como joins entre tabelas. Abaixo, compartilho uma visão geral do que aprendi.
+ Curso abrangente sobre MySQL, uma poderosa ferramenta de gerenciamento de banco de dados. Durante o curso, adquiri conhecimentos fundamentais que abrangem desde a criação de tabelas até operações mais avançadas, como joins entre tabelas. Abaixo, compartilho uma visão geral do que aprendi.
 
 Criação de Tabelas:
 
