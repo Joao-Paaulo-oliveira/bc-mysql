@@ -1,6 +1,6 @@
 -- Criando Tabela Estado!
 
-CREATE TABLE Estado (
+CREATE TABLE Estados (
 id INT UNSIGNED NOT NULL AUTO_INCREMENT,                        
 nome VARCHAR (45) NOT NULL,                                                    
 sigla VARCHAR (2) NOT NULL,                                                       

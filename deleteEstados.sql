@@ -5,3 +5,5 @@
  WHERE id = 101
 
  select * from estado
+
+ -- DROP table cidades -- exclui a tabela
